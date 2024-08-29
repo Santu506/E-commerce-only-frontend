@@ -7,7 +7,7 @@ function Footer() {
         <div>
             <img className='mb-5 w-32' src={assets.logo} alt="" />
             <p className='w-full md:w-2/3 text-gray-600'>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam cumque aliquid pariatur.
+                Thank you for visiting our site! We're committed to providing you with exceptional service and valuable information. For any inquiries or support, please don't hesitate to contact us. Stay updated with the latest news, offers, and updates by following us on social media. Your feedback is important to us, and we look forward to continuing to serve you. Have a great day!
             </p>
         </div>
         <div>
