@@ -15,7 +15,7 @@ function BestCeller() {
     <div className='my-10'>
         <div className='text-center py-8 text-3xl'>
             <Title text1={'Best'} text2={'Seller'}/>
-            <p className='w-3/4 m-auto text-xs sm:text-sm md:text-base test-gray-600'>Lorem ipsum, dolor sit amet consectetur adipisicing elit. </p>
+            <p className='w-3/4 m-auto text-xs sm:text-sm md:text-base test-gray-600'>Explore our top-selling favorites that have captured the hearts of our customers. These best-sellers represent the perfect blend of quality, style, and popularity, offering you the very best of what we have to offer. Each item has been handpicked based on its exceptional design and customer demand, making them a must-have addition to your collection. Shop now to discover why these pieces are loved by so many and find your new favorite! </p>
         </div>
 
         {/* rendering product */}
